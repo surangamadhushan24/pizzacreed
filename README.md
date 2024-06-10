@@ -3,7 +3,7 @@
 
 ## Overview
 
-PizzaCreed is a backend system for a pizza bakery located in Galle Fort. This project is developed using Spring MVC and JPA with Hibernate for database interaction. The system includes a web console for admin functions and a RESTful API for managing the shopping basket.
+PizzaCreed is a backend system for a pizza bakery. This project is developed using Spring MVC and JPA with Hibernate for database interaction. The system includes a web console for admin functions and a RESTful API for managing the shopping basket.
 
 ## Technologies Used
 
